@@ -35,7 +35,16 @@ color: #444;
 #garantie {
 
     background-color: #a7cece;
-    background-image: url(bilder/hintergrund2.gif);
-    background-repeat: no-repeat, top left;
-    padding-left: 1000px;
+    background-image: url(bilder/hintergrund.gif);
+    background-repeat: no-repeat;
+    margin: 10px;
+    padding: 15px;
+    border: 1px dashed; color: white;
+    color: black;
+    text-align: center;
+    text-decoration: ;
+    font-style: italic;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    padding-left: 50px;
 }
